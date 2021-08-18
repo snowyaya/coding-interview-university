@@ -336,7 +336,7 @@ If you read through one of these, you should have all the data structures and al
 
 I haven't read these two, but they are highly rated and written by Sedgewick. He's awesome.
 
-- [x] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
+- [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 - [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
     - Rich and detailed collection of Data Structures and Algorithms
